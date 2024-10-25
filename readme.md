@@ -21,16 +21,19 @@
 3. **Подготовка файлов**
 Убедитесь, что файл `orders.csv` находится в корневой директории проекта. Пример содержимого:
 
-     1,11,Moscow,2024-10-23 13:33:00
-     2,1,Moscow,2024-10-23 13:44:00
-     1,5,Positano,2024-10-23 13:55:00
-     3,6,SaintP,2024-10-23 14:00:00
+         1,11,Moscow,2024-10-23 13:33:00
+
+        2,1,Moscow,2024-10-23 13:44:00
+
+        1,5,Positano,2024-10-23 13:55:00
+
+        3,6,SaintP,2024-10-23 14:00:00
 
 
 4. **Запуск приложения**
 Приложение запускается с помощью командной строки. Используйте следующий синтаксис:
 
-        # dotnet run <District> <FirstDeliveryTime> <LogFilePath> <ResultFilePath>
+         dotnet run <District> <FirstDeliveryTime> <LogFilePath> <ResultFilePath>
 Пример:
 
         dotnet run Moscow "2024-10-23 13:30:00" log.txt result.txt
