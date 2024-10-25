@@ -28,8 +28,10 @@
 
 4. **Запуск приложения**
 Приложение запускается с помощью командной строки. Используйте следующий синтаксис:
+
         # dotnet run <District> <FirstDeliveryTime> <LogFilePath> <ResultFilePath>
 Пример:
+
         dotnet run Moscow "2024-10-23 13:30:00" log.txt result.txt
 
 5. **Файлы логов и результатов**
