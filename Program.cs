@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Globalization;
 
 namespace DeliveryService
 {
@@ -54,7 +55,7 @@ namespace DeliveryService
                 orders.Add(new Order
                 {
                     OrderId = parts[0],
-                    Weight = double.Parse(parts[1]),
+                    Weight = float.Parse(parts[1], CultureInfo.InvariantCulture),
                     District = parts[2],
                     DeliveryTime = DateTime.Parse(parts[3])
                 });

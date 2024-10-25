@@ -12,3 +12,4 @@ C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\refint\Deli
 C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\DeliveryService.pdb
 C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\DeliveryService.genruntimeconfig.cache
 C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\ref\DeliveryService.dll
+C:\Users\1\Desktop\testovoe zadanie\deliveryservice\obj\Debug\net8.0\DeliveryService.sourcelink.json
