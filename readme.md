@@ -11,11 +11,11 @@
 
 1. **Клонирование репозитория**
    Сделайте клон репозитория на ваш локальный компьютер командой:
-                    ## git clone <URL_репозитория>
+                    # git clone <URL_репозитория>
    
 2. **Установка зависимостей**
 Перейдите в директорию проекта и выполните команду для восстановления зависимостей командой:
-                        ## dotnet restore
+                        # dotnet restore
 
 
 3. **Подготовка файлов**
@@ -28,7 +28,7 @@
 
 4. **Запуск приложения**
 Приложение запускается с помощью командной строки. Используйте следующий синтаксис:
-        ## dotnet run <District> <FirstDeliveryTime> <LogFilePath> <ResultFilePath>
+        # dotnet run <District> <FirstDeliveryTime> <LogFilePath> <ResultFilePath>
 Пример:
         dotnet run Moscow "2024-10-23 13:30:00" log.txt result.txt
 
