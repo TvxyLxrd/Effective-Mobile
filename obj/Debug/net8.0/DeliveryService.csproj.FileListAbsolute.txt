@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\DeliveryService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\DeliveryService.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\DeliveryService.AssemblyInfo.cs
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\DeliveryService.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\bin\Debug\net8.0\DeliveryService.exe
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\bin\Debug\net8.0\DeliveryService.deps.json
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\bin\Debug\net8.0\DeliveryService.runtimeconfig.json
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\bin\Debug\net8.0\DeliveryService.dll
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\bin\Debug\net8.0\DeliveryService.pdb
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\DeliveryService.dll
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\refint\DeliveryService.dll
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\DeliveryService.pdb
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\DeliveryService.genruntimeconfig.cache
+C:\Users\1\Desktop\testovoe zadanie\DeliveryService\obj\Debug\net8.0\ref\DeliveryService.dll
