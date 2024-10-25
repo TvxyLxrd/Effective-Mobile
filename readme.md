@@ -12,12 +12,12 @@
 1. **Клонирование репозитория**
    Сделайте клон репозитория на ваш локальный компьютер командой:
 
-         # git clone https://github.com/TvxyLxrd/Effective-Mobile
+         git clone https://github.com/TvxyLxrd/Effective-Mobile
    
 3. **Установка зависимостей**
 Перейдите в директорию проекта и выполните команду для восстановления зависимостей командой:
 
-         # dotnet restore
+         dotnet restore
 
 
 5. **Подготовка файлов**
